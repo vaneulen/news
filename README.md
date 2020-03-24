@@ -1,2 +1,2 @@
 ### HACK CHAT
-[hack.chat](https://hack.chat/?vaneulen-chat)
+[hack.chat](https://hack.chat/?vaneulen-chat) ` Communication`
