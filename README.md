@@ -1,1 +1,2 @@
-`[hack.chat](https://hack.chat/?vaneulen-chat)`
+### HACK CHAT
+[hack.chat](https://hack.chat/?vaneulen-chat)
