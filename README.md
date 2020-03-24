@@ -9,9 +9,3 @@ Coronavirus
 [Coronavirus News](https://news.google.com/topics/CAAqBwgKMMPxlwsw5JqvAw?oc=3&ceid=DE:de)
 
 [Zusammen gegen Corona](https://www.zusammengegencorona.de/)
-
-
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
