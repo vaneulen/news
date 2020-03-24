@@ -11,7 +11,7 @@ Coronavirus
 [Zusammen gegen Corona](https://www.zusammengegencorona.de/)
 
 
-<div class="text-orange-light mb-2">
-  .text-orange-light on white
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
