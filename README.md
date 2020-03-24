@@ -1,5 +1,6 @@
 ### HACK CHAT
-[hack.chat](https://hack.chat/?vaneulen-chat) ` Communication`
+
+[hack.chat](https://hack.chat/?vaneulen-chat)
 
 Coronavirus
 ------
