@@ -11,6 +11,7 @@ Coronavirus
 [Zusammen gegen Corona](https://www.zusammengegencorona.de/)
 
 
-<div class="text-red mb-2">
-  .text-red on white
+<div class="text-orange-light mb-2">
+  .text-orange-light on white
 </div>
+
