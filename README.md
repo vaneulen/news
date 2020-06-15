@@ -12,4 +12,4 @@ Coronavirus
 
 [FAQ Bayern](https://www.corona-katastrophenschutz.bayern.de/faq/) 
 
-[My chart](https://docs.google.com/document/d/1yj_hJ5EakE8uE79sCzI4XXsBfsoVj9XbV0L-ZJoxV8g/edit?usp=sharing)
+[Corona-Warn-App](https://www.coronawarn.app/de/)
