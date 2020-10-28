@@ -4,6 +4,8 @@
 
 Coronavirus
 ------
+[Beschluss vom 28.10.2020](https://www.bundesregierung.de/resource/blob/975226/1805024/5353edede6c0125ebe5b5166504dfd79/2020-10-28-mpk-beschluss-corona-data.pdf?download=1)
+
 [Coronavirus Cases](https://www.worldometers.info/coronavirus/#countries)
 
 [Coronavirus News](https://news.google.com/topics/CAAqBwgKMMPxlwsw5JqvAw?oc=3&ceid=DE:de)
