@@ -1,8 +1,8 @@
-### HACK CHAT
+### HACK CHAT 📟
 
 [hack.chat](https://hack.chat/?vaneulen-chat)
 
-Coronavirus
+Coronavirus 🦠
 ------
 [Beschluss vom 25.11.2020](https://www.bundesregierung.de/resource/blob/997532/1820090/11c9749f77a71b9439759538864aa672/2020-11-25-mpk-beschluss-data.pdf?download=1)
 
@@ -18,6 +18,6 @@ Coronavirus
 
 [Corona-Warn-App](https://www.coronawarn.app/de/)
 
-PR0JECT 0FF
+PR0JECT 0FF 🌋
 ------
 [WhatsApp Off Timer](https://simple-countdown.herokuapp.com/?to=2021-01-01T00:00:00+01:00&title=WhatsApp%20Off&finishedText=WhatsAPP%20is%20Off&theme=autumn&themeFinished=autumn&locale=de_DE)
