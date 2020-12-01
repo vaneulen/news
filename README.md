@@ -17,3 +17,7 @@ Coronavirus
 [FAQ Bayern](https://www.corona-katastrophenschutz.bayern.de/faq/) 
 
 [Corona-Warn-App](https://www.coronawarn.app/de/)
+
+PR0JECT 0FF
+------
+[WhatsApp Off Timer](https://simple-countdown.herokuapp.com/?to=2021-01-01T00:00:00+01:00&title=WhatsApp%20Off&finishedText=WhatsAPP%20is%20Off&theme=autumn&themeFinished=autumn&locale=de_DE)
