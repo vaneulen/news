@@ -4,6 +4,8 @@
 
 Coronavirus 🦠
 ------
+[10. BayIfSMV vom 08.12.2020](ttps://www.verkuendung-bayern.de/files/baymbl/2020/737/baymbl-2020-737.pdf)
+
 [10. BayIfSMV vom 08.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/711/baymbl-2020-711.pdf)
 
 [Beschluss vom 13.12.2020](https://www.bundesregierung.de/resource/blob/997532/1827366/69441fb68435a7199b3d3a89bff2c0e6/2020-12-13-beschluss-mpk-data.pdf?download=1)
