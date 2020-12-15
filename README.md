@@ -4,7 +4,7 @@
 
 Coronavirus 🦠
 ------
-[10. BayIfSMV vom 08.12.2020](ttps://www.verkuendung-bayern.de/files/baymbl/2020/737/baymbl-2020-737.pdf)
+[11. BayIfSMV vom 15.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/737/baymbl-2020-737.pdf)
 
 [10. BayIfSMV vom 08.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/711/baymbl-2020-711.pdf)
 
