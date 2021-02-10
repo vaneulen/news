@@ -14,6 +14,8 @@ Coronavirus 🦠
 
 [10. BayIfSMV vom 08.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/711/baymbl-2020-711.pdf)
 
+[Beschluss vom 10.02.2021](https://www.bundesregierung.de/resource/blob/997532/1852514/1f93b439177cf7b237d7a335a85b37a9/2021-02-10-mpk-data.pdf?download=1)
+
 [Beschluss vom 19.01.2021](https://www.bundesregierung.de/resource/blob/997532/1840868/1c68fcd2008b53cf12691162bf20626f/2021-01-19-mpk-data.pdf?download=1)
 
 [Beschluss vom 05.01.2021](https://www.bundesregierung.de/resource/blob/997532/1834306/75346aa9bba1050fec8025b18a4bb1a3/2021-01-05-beschluss-mpk-data.pdf?download=1)
