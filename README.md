@@ -12,6 +12,8 @@ Coronavirus 🦠
 
 [Verordnung zur Änderung der 11. BayIfSMV vom 08.01.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/5/baymbl-2021-5.pdf)
 
+[12. BayIfSMV vom 05.03.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/171/baymbl-2021-171.pdf)
+
 [11. BayIfSMV vom 15.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/737/baymbl-2020-737.pdf)
 
 [10. BayIfSMV vom 08.12.2020](https://www.verkuendung-bayern.de/files/baymbl/2020/711/baymbl-2020-711.pdf)
