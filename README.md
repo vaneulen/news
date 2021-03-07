@@ -40,6 +40,8 @@ Coronavirus 🦠
 
 [FAQ Bayern](https://www.corona-katastrophenschutz.bayern.de/faq/) 
 
+[luca app](https://luca-app.de/)
+
 [Corona-Warn-App](https://www.coronawarn.app/de/)
 
 PR0JECT 0FF 🌋
