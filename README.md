@@ -6,6 +6,14 @@ Coronavirus 🦠
 ------
 [SARS-CoV-2-Arbeitsschutzverordnung vom 20.01.2021](https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Gesetze/Regierungsentwuerfe/reg-sars-cov-2-arbeitsschutzverordnung.pdf?__blob=publicationFile&v=4)
 
+[Verordnung zur Änderung der 12. BayIfSMV vom 27.04.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/290/baymbl-2021-290.pdf)
+
+[Verordnung zur Änderung der 12. BayIfSMV vom 22.04.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/287/baymbl-2021-287.pdf)
+
+[Verordnung zur Änderung der 12. BayIfSMV vom 16.04.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/280/baymbl-2021-280.pdf)
+
+[Verordnung zur Änderung der 12. BayIfSMV vom 09.04.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/261/baymbl-2021-261.pdf)
+
 [Verordnung zur Änderung der 12. BayIfSMV vom 25.03.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/224/baymbl-2021-224.pdf)
 
 [Verordnung zur Änderung der 11. BayIfSMV vom 12.02.2021](https://www.verkuendung-bayern.de/files/baymbl/2021/112/baymbl-2021-112.pdf)
