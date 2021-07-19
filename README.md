@@ -1,7 +1,5 @@
 # VANEULEN 📟
 
-[hack.chat](https://hack.chat/?vaneulen-chat)
-
 Coronavirus 🦠
 ------
 [SARS-CoV-2-Arbeitsschutzverordnung vom 20.01.2021](https://www.bmas.de/SharedDocs/Downloads/DE/PDF-Gesetze/Regierungsentwuerfe/reg-sars-cov-2-arbeitsschutzverordnung.pdf?__blob=publicationFile&v=4)
